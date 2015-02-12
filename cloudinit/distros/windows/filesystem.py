@@ -1,0 +1,2 @@
+class Filesystem(object):
+    pass

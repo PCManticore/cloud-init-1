@@ -1,0 +1,3 @@
+
+class BaseGeneral(object):
+    pass
